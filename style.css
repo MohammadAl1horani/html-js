@@ -1,0 +1,17 @@
+header {background-color: orange;
+height: 180px;
+padding: 20px;
+}
+
+li{
+  display: inline;
+  float: right;
+  margin: 10px;
+}
+
+#header3{
+  color: orange;
+}
+div{
+text-align: center;
+}
